@@ -1,2 +1,2 @@
 # Geogebra-no-ensino-de-Fisica
-Este acervo constitui um dos resultados do projeto "Laboratórios Virtuais no Ensino de Física", realizado entre 01/01/2024 e 31/12/2024, com o apoio da PROEX/UFAL, por meio do Edital Nº 012/2023 - PROEX/ UFAL - PROFAEX - Prorrogado, sob a supervisão do Prof. Dr. Marcelo Pires. 
+Este estudo analisou o uso do GeoGebra no ensino de Física, abrangendo Mecânica, Termologia, Óptica, Ondulatória, Eletromagnetismo e Física Moderna. Investigou sua aplicação nos níveis Fundamental, Médio e Superior, mapeando documentos acadêmicos sobre o GeoGebra como TDIC e buscando compreender seu impacto na educação de Física.     
